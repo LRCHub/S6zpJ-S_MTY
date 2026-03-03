@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Never Felt So Alone",
+  "base_artist": "Labrinth",
+  "createdAt": "2026-03-03T13:34:29.369562Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Never Felt So Alone",
+      "artist": "LabrinthVEVO",
+      "has_synced": true,
+      "path": "select/01_Never_Felt_So_Alone_LabrinthVEVO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Never Felt So Alone",
+      "artist": "Labrinth",
+      "has_synced": true,
+      "path": "select/02_Never_Felt_So_Alone_Labrinth.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Never Felt So Alone",
+      "artist": "Labrinth",
+      "has_synced": true,
+      "path": "select/03_Never_Felt_So_Alone_Labrinth.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Never Felt So Alone",
+      "artist": "Labrinth",
+      "has_synced": true,
+      "path": "select/04_Never_Felt_So_Alone_Labrinth.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Never Felt So Alone",
+      "artist": "Labrinth",
+      "has_synced": true,
+      "path": "select/05_Never_Felt_So_Alone_Labrinth.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Labrinth - Never Felt So Alone",
+      "artist": "Labrinth",
+      "has_synced": true,
+      "path": "select/06_Labrinth_-_Never_Felt_So_Alone_Labrinth.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Never Felt So Alone",
+      "artist": "Labrinth",
+      "has_synced": true,
+      "path": "select/07_Never_Felt_So_Alone_Labrinth.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Never Felt So Alone",
+      "artist": "Labrinth",
+      "has_synced": true,
+      "path": "select/08_Never_Felt_So_Alone_Labrinth.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Never Felt So Alone (Official Video)",
+      "artist": "Labrinth",
+      "has_synced": true,
+      "path": "select/09_Never_Felt_So_Alone_(Official_Video)_Labrinth.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Never Felt So Alone (Paused)",
+      "artist": "Labrinth",
+      "has_synced": true,
+      "path": "select/10_Never_Felt_So_Alone_(Paused)_Labrinth.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Never Felt So Alone",
+      "artist": "Labrinth & Billie Eilish",
+      "has_synced": true,
+      "path": "select/11_Never_Felt_So_Alone_Labrinth_&_Billie_Eilish.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Labrinth - Never Felt So Alone (Official Video)",
+      "artist": "Labrinth",
+      "has_synced": true,
+      "path": "select/12_Labrinth_-_Never_Felt_So_Alone_(Official_Video)_Labrinth.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Labrinth - Never Felt So Alone (Official Audio)",
+      "artist": "Labrinth",
+      "has_synced": true,
+      "path": "select/13_Labrinth_-_Never_Felt_So_Alone_(Official_Audio)_Labrinth.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Never Felt So Alone",
+      "artist": "Labrinth",
+      "has_synced": false,
+      "path": "select/pl_01_Never_Felt_So_Alone_Labrinth.txt"
+    }
+  ]
+}
